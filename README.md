@@ -13,4 +13,4 @@ proyectos y mis intereses.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Tecnología

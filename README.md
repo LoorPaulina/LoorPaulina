@@ -1,6 +1,6 @@
 # Repositorio Personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses. Podrás encontrarar una colección de trabajos académicos y proyectos personales que he desarrollado a lo largo de mis estudios. Siéntete libre de explorar los proyectos y su código fuente.
+proyectos y mis intereses. Podrás encontrar una colección de trabajos académicos y proyectos personales que he desarrollado a lo largo de mis estudios. Siéntete libre de explorar los proyectos y su código fuente.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)

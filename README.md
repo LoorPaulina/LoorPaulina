@@ -10,14 +10,18 @@ proyectos y mis intereses. Podrás encontrar una colección de trabajos académi
 * Nombre: Paulina Loor Tubay
 * Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Guayaquil
-* Sitio web: https://loorpaulina.github.io/LoorPaulina/
+* Sitio web: [https://loorpaulina.github.io/LoorPaulina/](https://loorpaulina.github.io/LoorPaulina/)
 ## Proyectos
-* [Lista de tus proyectos]
+* Curriculum Vitae
+* Landing Page SPA
+* Clima - DashBoard
+* Dataset SPA
+* Dataset MPA
 ## Intereses
 * Ciencia de Datos
 * Tecnología Emergente
 * Seguridad Informática
 * Robótica
 ## Artículos de interés
-* https://www.datasciencecentral.com/
-* https://doi.org/10.51302/tce.2023.3397
+* [https://www.datasciencecentral.com/](https://www.datasciencecentral.com/)
+* [https://doi.org/10.51302/tce.2023.3397](https://doi.org/10.51302/tce.2023.3397)

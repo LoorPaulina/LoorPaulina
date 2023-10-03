@@ -5,6 +5,7 @@ proyectos y mis intereses. Podrás encontrarar una colección de trabajos acadé
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Artículos de interés](#artículos-de-interés)
 ## Información personal
 * Nombre: Paulina Loor Tubay
 * Ocupación: Estudiante de Ingeniería en Computación

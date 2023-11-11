@@ -14,11 +14,11 @@ proyectos y mis intereses. Podrás encontrar una colección de trabajos académi
 * Lugar de residencia: Guayaquil
 * Sitio web: [https://loorpaulina.github.io/LoorPaulina/](https://loorpaulina.github.io/LoorPaulina/)
 ## Proyectos
-* Curriculum Vitae [https://loorpaulina.github.io/curriculum/]
-* Landing Page The Pet Palace [https://loorpaulina.github.io/landing/]
-* Administrador de Pastelería [https://github.com/LoorPaulina/ProyectoBaseDeDatos.git]
-* Sistema de citas para clínica [https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children.git]
-* Tienda de videojuegos [https://github.com/LoorPaulina/Grupo-8-Estructuras.git]
+* Curriculum Vitae: [https://loorpaulina.github.io/curriculum/]
+* Landing Page The Pet Palace: [https://loorpaulina.github.io/landing/]
+* Administrador de Pastelería: [https://github.com/LoorPaulina/ProyectoBaseDeDatos.git]
+* Sistema de citas para clínica: [https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children.git]
+* Tienda de videojuegos: [https://github.com/LoorPaulina/Grupo-8-Estructuras.git]
 ## Intereses
 * Ciencia de Datos
 * Tecnología Emergente

@@ -19,6 +19,12 @@ proyectos y mis intereses. Podrás encontrar una colección de trabajos académi
 * Administrador de Pastelería: [https://github.com/LoorPaulina/ProyectoBaseDeDatos.git](https://github.com/LoorPaulina/ProyectoBaseDeDatos.git)
 * Sistema de citas para clínica: [https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children.git](https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children.git)
 * Tienda de videojuegos: [https://github.com/LoorPaulina/Grupo-8-Estructuras.git](https://github.com/LoorPaulina/Grupo-8-Estructuras.git)
+##Lenguajes y herramientas
+#Lenguajes
+| Python | Java | JavaScript | Dart |
+|--------|------|------------|------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="100"/> |
+
 ## Intereses
 * Ciencia de Datos
 * Tecnología Emergente

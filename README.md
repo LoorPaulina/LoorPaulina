@@ -21,10 +21,20 @@ proyectos y mis intereses. Podrás encontrar una colección de trabajos académi
 * Tienda de videojuegos: [https://github.com/LoorPaulina/Grupo-8-Estructuras.git](https://github.com/LoorPaulina/Grupo-8-Estructuras.git)
   
 ## Lenguajes y herramientas
-# Lenguajes
+### Lenguajes
 | Python | Java | JavaScript | Dart |
 |--------|------|------------|------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="100"/> |
+
+### Frameworks
+| Angular | Flutter |
+|---------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="100"/> |
+
+### Herramientas para manipulación de datos
+| MySQL | Jupyter |
+|-------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="100"/> |
 
 ## Intereses
 * Ciencia de Datos

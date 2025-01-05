@@ -19,6 +19,7 @@ proyectos y mis intereses. Podrás encontrar una colección de trabajos académi
 * Administrador de Pastelería: [https://github.com/LoorPaulina/ProyectoBaseDeDatos.git](https://github.com/LoorPaulina/ProyectoBaseDeDatos.git)
 * Sistema de citas para clínica: [https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children.git](https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children.git)
 * Tienda de videojuegos: [https://github.com/LoorPaulina/Grupo-8-Estructuras.git](https://github.com/LoorPaulina/Grupo-8-Estructuras.git)
+* Dashboard [https://loorpaulina.github.io/dashboard/](https://loorpaulina.github.io/dashboard/)
   
 ## Lenguajes y herramientas
 ### Lenguajes
